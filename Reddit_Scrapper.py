@@ -17,7 +17,7 @@ def Scrapper ():
 
     # Set up Reddit API credentials
     client_id = 'pnZ38gjyqS9e7LiahmCgVQ'
-    client_secret = 'Xbn2Wp5Ezs8i57xt1AB5AIJMg9vFZw'
+    client_secret = ''
     user_agent = "python:askreddit_scraper:v1.0 (by /u/your_reddit_username)"
 
     # Initialize praw instance
